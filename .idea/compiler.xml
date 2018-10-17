@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="boot-eureka-server" />
         <module name="boot-service-hi" />
+        <module name="serice-feign" />
         <module name="service-ribbon" />
         <module name="springcloud" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="boot-eureka-server" target="1.8" />
       <module name="boot-service-hi" target="1.8" />
+      <module name="serice-feign" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
